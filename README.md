@@ -7,7 +7,9 @@ The `keywords` folder contains semicolon-delineated files listing the keywords/p
 These are copy-pasted from Appendix B in the report. However, I fixed a small number of apparent typos in the keyword lists before uploading; It remains to be determined if those typos were intentional or mistaken, as the report claims that inclusion of some typos in keywords was intentional.
 
 ## Data
-You can download the grants data (csv format) [here](https://www.cs.cmu.edu/~slab/Filtered_Assistance_PrimeAwardSummaries_2025-01-31_H17M26S25_1.csv).
+You can download the grants data with categorized keyword matches from the given lists [here](https://www.cs.cmu.edu/~slab/keyword_matches.csv). Matching was performed using the provided `search_keywords.py` script.
+
+You can download the raw(-ish) grants data (csv format) [here](https://www.cs.cmu.edu/~slab/Filtered_Assistance_PrimeAwardSummaries_2025-01-31_H17M26S25_1.csv).
 
 Following the methodology described in Appendix A to the best of my ability, I did a search on [usaspending.gov](usaspending.gov) for grants from the NSF limited to the dates: January 21, 2021 -- April 4, 2024. 
 <img width="1445" alt="image" src="https://github.com/user-attachments/assets/495911ff-cade-4077-bbe9-70c6901c7afa" />
