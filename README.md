@@ -12,4 +12,4 @@ Following the methodology described in Appendix A to the best of my ability, I d
 
 This results in 57,438 results. Further filtering by the `award_base_action_date` by the January 21, 2021 -- April 4, 2024 results in 38,148 rows. This does not equal the 32,198 rows described in the report, however this could be explained by additional data being uploaded to usaspending.gov after the original query used for constructing the report, and ours. TBD.  
 
-Unfortunately the raw data csv downloaded from usaspending.gov is too large to upload to github directly. Working on uploading it somewhere else and adding a link...
+You can download the data (csv format) [here](https://www.cs.cmu.edu/~slab/Filtered_Assistance_PrimeAwardSummaries_2025-01-31_H17M26S25_1.csv).
