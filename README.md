@@ -7,7 +7,7 @@ The `keywords` folder contains semicolon-delineated files listing the keywords/p
 These are copy-pasted from Appendix B in the report. However, I fixed a small number of apparent typos in the keyword lists before uploading; It remains to be determined if those typos were intentional or mistaken, as the report claims that inclusion of some typos in keywords was intentional.
 
 ## Data
-Following the methodology described in Appendix A to the best of my ability, I did a search on usaspending.gov for grants from the NSF limited to the dates: January 21, 2021 -- April 4, 2024. 
+Following the methodology described in Appendix A to the best of my ability, I did a search on [usaspending.gov](usaspending.gov) for grants from the NSF limited to the dates: January 21, 2021 -- April 4, 2024. 
 <img width="1445" alt="image" src="https://github.com/user-attachments/assets/495911ff-cade-4077-bbe9-70c6901c7afa" />
 
 This results in 57,438 results. Further filtering by the `award_base_action_date` by the January 21, 2021 -- April 4, 2024 results in 38,148 rows. This does not equal the 32,198 rows described in the report, however this could be explained by additional data being uploaded to usaspending.gov after the original query used for constructing the report, and ours. TBD.  
